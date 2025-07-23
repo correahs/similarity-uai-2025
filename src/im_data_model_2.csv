@@ -1,0 +1,2 @@
+,n_items,n_questions,n_dims_model,l2_reg,train_err,train_n,train_err_norm,test_err,test_n,test_err_norm,n_dims_gt
+0,20,8000,5,0.01,32145.148596008836,6400,5.02267946812638,7996.334812109914,1600,4.9977092575686966,5
